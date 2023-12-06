@@ -19,39 +19,43 @@
 - Served as a technical committee member of ‘A Trimester Program on Triangle Groups, Belyi Uniformization, and Modularity’ to handle invitations, website, maintaining schedule, talks, and meetings.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Some Problems in Number Fields
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Studied Kummer Theory and also worked on the refinement of Gauss’ Theorem on Primitive Roots. Also, solved
+the problem of balancing the centrifuge by drawing references from research papers on the vanishing sums of
+distinct roots of unity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Topological Insulators
+Studied Berry Phase and Berry Connection for discrete as well as continuum cases and solved some interesting unsolved problems on the same topic.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## PRACTICAL EXPERIENCE IN RESEARCH CENTERS:
+**Research Intern @ IISER, Thiruvananthapuram (_June 2019 - July 2019_)**
+- **Beal’s Conjecture and Fermat’s Theorem**
+- Studied a constructive proof of Beal’s conjecture by Nicholas J. Daras, ‘Primitive integral solutions to 𝑥2 + 𝑦3 = 𝑧10 by David Brown’ and the ‘special case of the generalized Fermat equation 𝑥2 + 𝑦3 = 𝑧15 by Samir Siksek and Michael Stoll’.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+**Research Intern @ Bhaskaracharya Pratishthana, Pune (_June 2018 - July 2018_)**
+- **Algebraic Number Theory**
+- Studied parts of books like The TIFR Pamphlet on Algebraic Number Theory, Stewart and Tall’s Algebraic Number Theory, and notes.
+- Discussed general themes and problems in Algebraic Number Theory.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+
+## RELEVANT COURSES
+- Deep Learning and AI, GUVI, ongoing.
+- Neural Networks and Deep Learning, Coursera, Nov. 2023.
+- Classical Cryptosystems and Core Concepts, Coursera, July 2023.
+- Training Program on Data Science, the Department of Mathematics and Lokmanya Tilak Chair, Savitribai Phule Pune University, March 7 to August 28, 2022.
+- Blockchain Basics, Coursera, May 2022.
+- Asymmetric Cryptography and Key Management, Coursera, Feb. 2022.
+- Cryptography I, Coursera, March 2022.
+- Advanced Diploma in Information Technology (with scholarship), AIERA, May 2013.
 
 - [Utkalp Digital Classes](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## ACHIEVEMENTS AND PARTICIPATIONS:
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Awarded the ‘Aryabhata-HoMI Fellowship’ for research in Mathematics, May 2022 - August 2023.
+2. Attended the NCM workshop on Operator Theory and Operator Algebra at IIT Gandhinagar, March 6 - 11, 2023.
+3. Attended and won the first prize for group presentation during Summer School on Econometrics and Machine
+Learning held from June 7 - 11, 2022 at IGIDR, Mumbai.
 
 - [Data Science Blog](https://medium.com/@shawhin)
