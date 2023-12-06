@@ -50,7 +50,6 @@ Studied Berry Phase and Berry Connection for discrete as well as continuum cases
 - Cryptography I, Coursera, March 2022.
 - Advanced Diploma in Information Technology (with scholarship), AIERA, May 2013.
 
-- [Utkalp Digital Classes](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## ACHIEVEMENTS AND PARTICIPATIONS:
 1. Awarded the ‘Aryabhata-HoMI Fellowship’ for research in Mathematics, May 2022 - August 2023.
@@ -58,4 +57,6 @@ Studied Berry Phase and Berry Connection for discrete as well as continuum cases
 3. Attended and won the first prize for group presentation during Summer School on Econometrics and Machine
 Learning held from June 7 - 11, 2022 at IGIDR, Mumbai.
 
+
+- [Utkalp Digital Classes](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 - [Data Science Blog](https://medium.com/@shawhin)
